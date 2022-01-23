@@ -3,7 +3,7 @@ public class Main {
 
         int eaters = 3; // сколько людей будут есть
 
-        int water = 2500; // миллилитров воды
+        int water = 2007; // миллилитров воды
         int potatoes = 4; // картофелин
         int chicken = 3; // куриных бёдер
         int spices = 5; // ложек специй
